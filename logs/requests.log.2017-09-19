@@ -1,0 +1,295 @@
+{"levelname": "INFO", "asctime": "2017-09-18 19:19:07,450", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:19:07,612", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:21:48,446", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:21:48,519", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:21:48,563", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:23:41,831", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:23:41,839", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:23:41,904", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:23:42,936", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:23:42,942", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:23:42,987", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:23:43,523", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:23:43,528", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:23:43,566", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:23:43,813", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:23:43,819", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:23:43,858", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:24:45,997", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:24:46,005", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:24:46,045", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:24:46,854", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:24:46,860", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:24:46,901", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:24:47,232", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:24:47,237", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:24:47,280", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:24:47,569", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:24:47,575", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:24:47,623", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:24:57,462", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:24:57,477", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:24:57,512", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:27:22,108", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:27:22,763", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:27:22,794", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:29:23,991", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:29:24,002", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:29:24,047", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:29:28,735", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:29:28,740", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:29:28,783", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:29:29,719", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:29:29,724", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:29:29,766", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:30:09,420", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:30:09,431", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:30:09,473", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:30:09,485", "message": "Response data for /favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:30:10,984", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:30:10,989", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:31:01,645", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:31:01,793", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:31:53,816", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:31:53,959", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:35:46,077", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:35:46,238", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:35:54,822", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:35:54,961", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:35:56,206", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:35:56,339", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:36:46,062", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:36:46,243", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:37:13,760", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:37:13,913", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:38:27,561", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:38:27,713", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:38:29,090", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:38:29,230", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:38:29,927", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:38:30,065", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:38:32,719", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:38:32,845", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:38:33,506", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:38:33,641", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:38:34,186", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:38:34,317", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:38:34,842", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:38:34,973", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:38:35,515", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:38:35,645", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:40:27,417", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:40:27,564", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:40:28,424", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:40:28,562", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:42:04,270", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "ERROR", "asctime": "2017-09-18 19:42:04,453", "message": null, "server_hostname": "HP-Notebook", "traceback": "Traceback (most recent call last):\n  File \"/home/arun/.local/lib/python2.7/site-packages/django/core/handlers/base.py\", line 215, in _get_response\n    response = response.render()\n  File \"/home/arun/.local/lib/python2.7/site-packages/django/template/response.py\", line 109, in render\n    self.content = self.rendered_content\n  File \"/home/arun/.local/lib/python2.7/site-packages/rest_framework/response.py\", line 72, in rendered_content\n    ret = renderer.render(self.data, accepted_media_type, context)\n  File \"/home/arun/.local/lib/python2.7/site-packages/rest_framework/renderers.py\", line 103, in render\n    separators=separators\n  File \"/usr/lib/python2.7/json/__init__.py\", line 251, in dumps\n    sort_keys=sort_keys, **kw).encode(obj)\n  File \"/usr/lib/python2.7/json/encoder.py\", line 207, in encode\n    chunks = self.iterencode(o, _one_shot=True)\n  File \"/usr/lib/python2.7/json/encoder.py\", line 270, in iterencode\n    return _iterencode(o, 0)\n  File \"/home/arun/.local/lib/python2.7/site-packages/rest_framework/utils/encoders.py\", line 70, in default\n    return super(JSONEncoder, self).default(obj)\n  File \"/usr/lib/python2.7/json/encoder.py\", line 184, in default\n    raise TypeError(repr(o) + \" is not JSON serializable\")\nTypeError: <reportlab.pdfgen.canvas.Canvas instance at 0x7ff94d6204d0> is not JSON serializable\n", "remote_address": "127.0.0.1", "request_method": "GET", "run_time": 0.15300393104553223, "request_path": "/id/", "user": "Anonymous"}
+{"levelname": "INFO", "asctime": "2017-09-18 19:42:04,712", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:25:42,797", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:25:43,786", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:25:43,876", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:25:43,892", "message": "Response data for /favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:26:45,864", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:26:46,042", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:30:37,522", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:30:37,681", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:32:22,882", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:32:23,154", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:32:49,581", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:32:49,869", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:33:27,003", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:33:27,296", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:33:43,329", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:33:43,614", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:33:57,881", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:33:58,158", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:33:59,062", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:33:59,332", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:34:17,112", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:34:17,403", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:34:19,885", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:34:20,146", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:34:32,110", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:34:32,389", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:34:53,257", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:34:53,546", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:35:15,422", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:35:15,705", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:35:17,134", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:35:17,395", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:35:43,063", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:35:43,355", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:36:43,535", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:36:43,829", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:36:44,556", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:36:44,827", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:37:12,074", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:37:12,354", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:37:28,613", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:37:28,895", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:37:30,051", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:37:30,313", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:37:57,922", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:37:58,198", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:37:58,962", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:37:59,224", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:39:37,973", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:39:38,361", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:39:39,178", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:39:39,591", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:40:07,506", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:40:07,886", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:41:30,339", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:41:30,734", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:41:57,317", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:41:57,706", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:41:58,493", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:41:58,881", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:41:59,283", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:41:59,679", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:42:22,471", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:42:22,864", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:49:37,699", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:49:38,057", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:51:22,235", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:51:22,559", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:51:38,133", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:51:38,458", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:52:13,339", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:52:13,668", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:52:14,347", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:52:14,708", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:52:31,190", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:52:31,523", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:52:45,424", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:52:45,765", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:52:46,509", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:52:46,855", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:52:47,661", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:52:47,995", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:53:05,130", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:53:05,456", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:53:06,480", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:53:06,815", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:53:07,972", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:53:08,296", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:53:30,334", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:53:30,658", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:53:50,387", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:53:50,728", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:53:51,532", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:53:51,869", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:54:10,538", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:54:10,873", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:55:10,824", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:55:11,149", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:56:00,107", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:56:00,435", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:56:16,532", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:56:16,852", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:56:18,791", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:56:19,100", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:56:36,297", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:56:36,627", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:56:37,229", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:56:37,567", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:56:38,096", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:56:38,439", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:57:38,924", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:57:39,251", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:57:40,836", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:57:41,155", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:58:00,533", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:58:00,847", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:58:02,903", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:58:03,218", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:58:15,678", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:58:16,017", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:58:42,943", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 18:58:43,294", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:04:20,898", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:04:21,232", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:04:34,346", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:04:34,670", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:04:37,557", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:04:37,870", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:04:49,491", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:04:49,817", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:05:01,285", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:05:01,617", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:05:27,639", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:05:27,975", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:05:37,549", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:05:37,886", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:05:52,685", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:05:53,020", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:07:00,439", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:07:00,826", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:08:04,039", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:08:04,375", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:08:26,468", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:08:26,816", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:08:43,869", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:08:44,210", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:08:58,265", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:08:58,587", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:12:40,811", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:12:41,052", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:13:18,722", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:13:18,976", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:13:21,337", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:13:21,569", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:17:06,847", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:17:07,102", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:18:51,874", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:18:52,129", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:19:37,223", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:19:37,462", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:20:59,471", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:20:59,726", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:21:00,423", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:21:00,686", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:21:35,699", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:21:35,965", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:21:36,609", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:21:36,867", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:23:06,622", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:23:06,888", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:23:51,468", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:23:51,723", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:23:54,453", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:23:54,701", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:24:36,904", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:24:37,156", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:24:59,255", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:24:59,501", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:25:24,631", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:25:24,875", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:25:42,774", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:25:43,037", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:25:43,257", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:25:43,518", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:25:43,747", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:25:43,999", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:26:08,455", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:26:08,721", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:26:33,344", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:26:33,594", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:27:18,595", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:27:18,847", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:31:22,127", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:31:22,405", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:32:01,868", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:32:02,120", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:32:03,673", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:32:03,952", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:32:23,397", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:32:23,651", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:33:29,314", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:33:29,559", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:33:30,496", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:33:30,753", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:33:31,404", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:33:31,658", "message": "Response data for /id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:33:32,350", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/id/"}
+{"levelname": "INFO", "asctime": "2017-09-19 19:33:32,603", "message": "Response data for /id/"}

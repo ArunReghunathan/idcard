@@ -1,0 +1,8 @@
+{"levelname": "INFO", "asctime": "2017-09-10 08:38:13,660", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/users/"}
+{"levelname": "INFO", "asctime": "2017-09-10 08:38:13,980", "message": "Response data for /users/"}
+{"levelname": "INFO", "asctime": "2017-09-10 08:38:14,045", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-10 08:38:14,052", "message": "Response data for /favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-10 11:07:19,471", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/"}
+{"levelname": "INFO", "asctime": "2017-09-10 11:07:19,576", "message": "Response data for /"}
+{"levelname": "INFO", "asctime": "2017-09-10 11:07:19,622", "message": null, "server_hostname": "HP-Notebook", "request_body": "", "remote_address": "127.0.0.1", "request_method": "GET", "user": "Anonymous", "app_version": null, "request_path": "/favicon.ico"}
+{"levelname": "INFO", "asctime": "2017-09-10 11:07:19,624", "message": "Response data for /favicon.ico"}

@@ -1,0 +1,6 @@
+
+local_settings.py
+private_conf.py
+*.pyc
+__pycache__
+
