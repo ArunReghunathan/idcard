@@ -13,6 +13,8 @@ Including another URLconf
     1. Import the include() function: from django.conf.urls import url, include
     2. Add a URL to urlpatterns:  url(r'^blog/', include('blog.urls'))
 """
+from src.users.views.userview import root
+
 __author__ = ["Arun Reghunathan"]
 
 from django.conf.urls import url, include
@@ -21,6 +23,7 @@ from src.users import urls as user_urls
 from src.idcard import urls as idcard
 
 urlpatterns = [
+    url(r'^$', root),
     url(r'^admin/', admin.site.urls),
     url(r'^users/', include(user_urls)),
     url(r'^id/', include(idcard)),

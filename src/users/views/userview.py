@@ -18,8 +18,7 @@ class UserView(LoggingMixin, CustomModelViewSet):
 
 
 @api_view(['GET'])
-def exportUserData(request):
-    a = {"status": "Success"}
-
-    return Response(a, status=status.HTTP_200_OK)
+def root(request):
+    response = 'Any sufficiently advanced technology is equivalent to magic.  - Sir Arthur C. Clarke'
+    return Response(response, status=status.HTTP_200_OK)
 
