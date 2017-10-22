@@ -16,7 +16,7 @@ from src.idcard.models.idcardmodel import IdCard
 @api_view(['GET'])
 def generate(request,id):
     user = IdCard.objects.get(id=id)
-    url = "triar.in/id/redirect.php?url=34.233.78.6/view/" + str(id)
+    url = "triar.in/#/idcard/view/" + str(id)
     data = {"longUrl": url}
     googleurl = "https://www.googleapis.com/urlshortener/v1/url?fields=id&key=" + GOOGLE_APIKEY
     content = requests.post(googleurl, json=data)

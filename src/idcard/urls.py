@@ -16,6 +16,5 @@ urlpatterns = [
 
     url(r'^generate/(?P<id>\w+)/$', generate),
     url(r'^$', create),
-    url(r'^(?P<id>\w+)/$', update),
-    url(r'^triar.in/id/redirect.php?url=34.233.78.6/view/(?P<id>\w+)/$', update)
+    url(r'^(?P<id>\w+)/$', update)
 ]
