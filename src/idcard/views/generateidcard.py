@@ -29,7 +29,7 @@ def generate(request,id):
     params.PhoneNumber = user.PhoneNumber
     params.heading = user.Heading
     params.pic = user.ProfilePic
-    params.Language = language
+    params.Language = user.Font
 
     img = generate_idcard(params, id)
 
