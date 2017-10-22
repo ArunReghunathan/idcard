@@ -22,6 +22,9 @@ class IdCard(CustomDocument):
     ProfilePic = URLField()
     Font = StringField()
     url = URLField()
+    isActive = BooleanField(default=True)
+    images = ListField(StringField())
+    videos = ListField(StringField())
     created_at = DateTimeField()
     updated_at = DateTimeField()
 
