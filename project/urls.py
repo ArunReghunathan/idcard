@@ -23,8 +23,9 @@ from src.users import urls as user_urls
 from src.idcard import urls as idcard
 
 urlpatterns = [
+    # url(r"^admin/", include(admin.site.urls)),
+    # url(r'^o/', include('oauth2_provider.urls', namespace='oauth2_provider')),
     url(r'^$', root),
-    url(r'^admin/', admin.site.urls),
     url(r'^users/', include(user_urls)),
     url(r'^id/', include(idcard)),
 

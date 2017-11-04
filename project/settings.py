@@ -54,17 +54,17 @@ INSTALLED_APPS = [
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
     'django.middleware.common.CommonMiddleware',
-    'django.middleware.security.SecurityMiddleware',
+    # 'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     # 'django.middleware.common.CommonMiddleware',
     # 'django.middleware.csrf.CsrfViewMiddleware',
-    'django.contrib.auth.middleware.AuthenticationMiddleware',
-    'django.contrib.messages.middleware.MessageMiddleware',
+    # 'django.contrib.auth.middleware.AuthenticationMiddleware',
+    # 'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'django.middleware.csrf.CsrfViewMiddleware',
-    'corsheaders.middleware.CorsPostCsrfMiddleware',
-
+    # 'django.middleware.csrf.CsrfViewMiddleware',
+    # 'corsheaders.middleware.CorsPostCsrfMiddleware',
     'src.common.libraries.middleware.ExceptionMiddleware',
+    'src.common.libraries.middleware.AuthenticationMiddleware',
     'src.common.libraries.middleware.RequestMiddleware'
 ]
 
@@ -90,10 +90,11 @@ TEMPLATES = [
 REST_FRAMEWORK = {
     'PAGE_SIZE': 10,
     'EXCEPTION_HANDLER': 'src.common.libraries.customexceptionhandler.custom_exception_handler',
-
-    'DEFAULT_PERMISSION_CLASSES': (
-         'rest_framework.permissions.AllowAny',
-    ),
+    'DEFAULT_AUTHENTICATION_CLASSES': [],
+    'DEFAULT_PERMISSION_CLASSES': [],
+    # 'DEFAULT_PERMISSION_CLASSES': (
+    #      'rest_framework.permissions.AllowAny',
+    # ),
 
     'DEFAULT_RENDERER_CLASSES': (
         'rest_framework.renderers.JSONRenderer',
@@ -133,7 +134,7 @@ CELERY_QUEUES = {
 CELERY_BEAT_SCHEDULE = {
     'test': {
         'task': 'project.tasks.test',
-        'schedule': crontab(hour='*')
+        'schedule': crontab(minute=0, hour='*')
     }
 }
 

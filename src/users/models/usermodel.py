@@ -18,6 +18,9 @@ class User(CustomDocument):
     Gender = StringField(null=True)
     PhoneNumber = StringField()
     ProfilePic = URLField()
+    is_active = BooleanField(default=True)
+    role = StringField()
+    premissiom_level = IntField(default=1)
     created_at = DateTimeField()
     updated_at = DateTimeField()
 

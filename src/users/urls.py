@@ -1,6 +1,8 @@
+# from django.views.decorators.csrf import csrf_exempt
+
 from django.conf.urls import url
 
-from src.users.views.userview import UserView
+from src.users.views.userview import UserView, UserSignin
 
 user = UserView.as_view({
     'get': 'list',
@@ -14,6 +16,7 @@ single_user = UserView.as_view({
 
 urlpatterns = [
 
-    url(r'^$', user),
-    url(r'^(?P<id>\w+)/$', single_user)
+    url(r'^$',  user),
+    url(r'^signin/$', UserSignin),
+    url(r'^(?P<id>\w+)/$', single_user),
 ]

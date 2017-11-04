@@ -1,28 +1,72 @@
+import re
+from datetime import datetime
+
+import jwt
 import socket
 import time
 import logging
 import traceback
+
+from django.http import JsonResponse
 from django.utils.deprecation import MiddlewareMixin
+from rest_framework import status
+
+from project.private_conf import JWT_KEY, JWT_ALGORITHM, PUBLIC_URL
+from src.common.constants.project_constants import AUTHORIZATOIN_FAILED, SESSION_EXPIRED
+from src.users.models.usermodel import User
 
 __author__ = ["Arun Reghunathan"]
 
 logger = logging.getLogger('requests')
 
+class Obj():
+    pass
+
+class AuthenticationMiddleware(MiddlewareMixin):
+
+
+    def process_request(self,request):
+
+        token = request.META.get('HTTP_AUTHORIZATION', "invalid")
+        publicUrlsList = "(" + ")|(".join(PUBLIC_URL) + ")"
+        if re.match(publicUrlsList, request.get_full_path()):
+            request.userinfo = Obj()
+            request.userinfo.premissiom_level = 1
+        else:
+            try:
+                payload = jwt.decode(token, JWT_KEY, algorithm=JWT_ALGORITHM)
+            except Exception as e:
+                AUTHORIZATOIN_FAILED['error']['message'] = e.message
+                return JsonResponse(AUTHORIZATOIN_FAILED, status=status.HTTP_401_UNAUTHORIZED)
+            if payload['expiry'] < str(datetime.utcnow()):
+                return JsonResponse(SESSION_EXPIRED, status=status.HTTP_403_FORBIDDEN)
+            else:
+                try:
+                    request.userinfo = User.objects.get(id=payload['idUser'])
+                except Exception as e:
+                    AUTHORIZATOIN_FAILED['error']['message'] = e.message
+                    return JsonResponse(AUTHORIZATOIN_FAILED, status=status.HTTP_401_UNAUTHORIZED)
+        return
+
+
+    def process_response(self, request, response):
+        return response
+
 
 class RequestMiddleware(MiddlewareMixin):
     def process_request(self, request):
         request.start_time = time.time()
-        request.user = request.META.get('HTTP_USER_ID', 'Anonymous')
+        # request.user = request.META.get('HTTP_USER_ID', 'Anonymous')
         request.app_version = request.META.get('HTTP_APP_VERSION', None)
         log_data= {
-            "user": request.user,
+            # "user": request.user.id,
             "remote_address": request.META['REMOTE_ADDR'],
             "server_hostname": socket.gethostname(),
             "request_method": request.method,
             "request_path": request.get_full_path(),
             "app_version": request.app_version,
         }
-        if log_data["request_path"] in ['/project/reset/', '/project/corpsignin/'] and log_data['request_method'] == 'POST':
+        if log_data["request_path"] in ['/users/signin/'] and log_data['request_method'] == 'POST':
             log_data["request_body"] = "## Sensitive Info ##"
         else:
             log_data["request_body"] = request.body
