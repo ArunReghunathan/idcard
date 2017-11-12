@@ -30,6 +30,10 @@ class UserView(LoggingMixin, CustomModelViewSet):
     def update(self, request, *args, **kwargs):
         return super(UserView, self).update(request)
 
+    @cls_check_permissions(1)
+    def create(self, request, *args, **kwargs):
+        return super(UserView, self).create(request)
+
 
 
 
