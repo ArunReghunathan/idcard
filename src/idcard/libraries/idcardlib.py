@@ -34,7 +34,7 @@ def generate_idcard(paramObject, file_name="idcard", path="static/idCard/idcards
     bg = static("idCard/bg.png")
     pic = static("idCard/my.jpg")
     frame = static("idCard/picframe.png")
-    idcard = static("idCard/idcard.jpg")
+    idcard = static("idCard/idcardframe.png")
 
     # get the fonts
     font_dirpath = static("idCard/fonts/")
@@ -55,10 +55,11 @@ def generate_idcard(paramObject, file_name="idcard", path="static/idCard/idcards
     c.setPageSize(portrait(A4))
     c.setLineWidth(.3)
     c.drawImage(image=bg, x=0, y=0, width=width, height=height, preserveAspectRatio=True)
-    c.drawImage(image=idcard, x=1, y=1, width=2.125*inch, height=3.370*inch, mask='auto')
+    # c.drawImage(image=idcard, x=1, y=1, width=2.125*inch, height=3.370*inch, mask='auto')
     c.drawImage(image=pic, x=26, y=98.4, width=90, height=90, mask='auto')
-    c.drawImage(image=frame, x=25, y=97.4, width=100, height=100, mask='auto')
-    c.drawImage(image=qrcode, x=115, y=1, width=40, height=40, mask='auto')
+    # c.drawImage(image=frame, x=25, y=97.4, width=100, height=100, mask='auto')
+    c.drawImage(image=qrcode, x=110, y=2, width=43, height=43, mask='auto')
+    c.drawImage(image=idcard, x=1, y=1, width=2.125*inch, height=3.370*inch, mask='auto')
 
     c.setFont(psfontname=fontList[0], size=18)
     c.setFillColor("#eeeeee")
@@ -73,8 +74,9 @@ def generate_idcard(paramObject, file_name="idcard", path="static/idCard/idcards
     #card 2
     c.drawImage(image=idcard, x=1+2+2.125*inch, y=1, width=2.125*inch, height=3.370*inch, mask='auto')
     c.drawImage(image=pic, x=26+2+2.125*inch, y=98.4, width=90, height=90, mask='auto')
-    c.drawImage(image=frame, x=25+2+2.125*inch, y=97.4, width=100, height=100, mask='auto')
-    c.drawImage(image=qrcode, x=115+2+2.125*inch, y=1, width=40, height=40, mask='auto')
+    # c.drawImage(image=frame, x=25+2+2.125*inch, y=97.4, width=100, height=100, mask='auto')
+    c.drawImage(image=qrcode, x=110+2+2.125*inch, y=2, width=43, height=43, mask='auto')
+    c.drawImage(image=idcard, x=1+2+2.125*inch, y=1, width=2.125*inch, height=3.370*inch, mask='auto')
 
     c.setFont(psfontname=fontList[0], size=18)
     c.setFillColor("#eeeeee")
@@ -86,10 +88,12 @@ def generate_idcard(paramObject, file_name="idcard", path="static/idCard/idcards
     c.drawCentredString(x=75+2+2.15*inch, y=68, text=paramObject.PhoneNumber)
 
     #card 3
-    c.drawImage(image=idcard, x=1+2+2.125*inch+2+2.125*inch, y=1, width=2.125*inch, height=3.370*inch, mask='auto')
+
     c.drawImage(image=pic, x=26+2+2.125*inch+2+2.125*inch, y=98.4, width=90, height=90, mask='auto')
-    c.drawImage(image=frame, x=25+2+2.125*inch+2+2.125*inch, y=97.4, width=100, height=100, mask='auto')
-    c.drawImage(image=qrcode, x=115+2+2.125*inch+2+2.125*inch, y=1, width=40, height=40, mask='auto')
+    # c.drawImage(image=frame, x=25+2+2.125*inch+2+2.125*inch, y=97.4, width=100, height=100, mask='auto')
+    c.drawImage(image=qrcode, x=110+2+2.125*inch+2+2.125*inch, y=2, width=43, height=43, mask='auto')
+    c.drawImage(image=idcard, x=1 + 2 + 2.125 * inch + 2 + 2.125 * inch, y=1, width=2.125 * inch, height=3.370 * inch,
+                mask='auto')
 
     c.setFont(psfontname=fontList[0], size=18)
     c.setFillColor("#eeeeee")
